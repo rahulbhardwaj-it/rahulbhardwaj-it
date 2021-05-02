@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rahulbhardwaj-it
-- 👀 I’m interested in devoling web applications
+- 👀 I’m interested in devoloping web applications
 - 🌱 I’m currently learning B.tech IT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : mailto: rahul.bhardwaj.it@gmail.com
