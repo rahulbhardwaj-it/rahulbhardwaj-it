@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahulbhardwaj-it
 - 👀 I’m interested in devoloping web applications.
-- 🌱 I’m currently learning B.tech I.T.
+- 🌱 I’m currently working for freelancer projects.
 - 💞️ I’m looking for internship & sponsorship.
 - Portfolio:
 - Connect me on LinkedIn: https://www.linkedin.com/in/rahul-bhardwaj-47396a146/
