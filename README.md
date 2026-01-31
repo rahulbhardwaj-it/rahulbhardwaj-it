@@ -2,7 +2,7 @@
 - 👀 I’m interested in devoloping web applications.
 - 🌱 I’m currently learning B.tech I.T.
 - 💞️ I’m looking for internship & sponsorship.
-- Portfolio: https://rahulbhardwaj-it.github.io/portfolio/
+- Portfolio:
 - Connect me on LinkedIn: https://www.linkedin.com/in/rahul-bhardwaj-47396a146/
 - Follow me on instagram : https://www.instagram.com/rahul.bhardwaj.it/
 - Follow my facebook page: https://www.facebook.com/rahul.it.bhardwaj
