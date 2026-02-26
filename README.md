@@ -3,7 +3,7 @@
 - 🌱 I’m currently working for freelancer projects.
 - 💞️ I’m looking for internship & sponsorship.
 - Portfolio:
-- Connect me on LinkedIn: https://www.linkedin.com/in/rahul-bhardwaj-47396a146/
+- Connect me on LinkedIn: https://www.linkedin.com/in/rahul-bhardwaj-it/
 - Follow me on instagram : https://www.instagram.com/rahul.bhardwaj.it/
 - Follow my facebook page: https://www.facebook.com/rahul.it.bhardwaj
 
